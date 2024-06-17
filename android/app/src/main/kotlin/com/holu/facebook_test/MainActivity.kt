@@ -1,4 +1,4 @@
-package com.example.facebook_test
+package com.holu.facebook_test
 
 import io.flutter.embedding.android.FlutterActivity
 

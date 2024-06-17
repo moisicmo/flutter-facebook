@@ -8,9 +8,6 @@
     "editorBracketHighlight.foreground6": "#98C379",
     "editorCursor.foreground": "#ffff00",
     "terminalCursor.foreground": "#ffff00",
-    "editor.selectionBackground": "#555534",
-    "activityBar.background": "#382C02",
-    "titleBar.activeBackground": "#4F3E03",
-    "titleBar.activeForeground": "#FEFAEA"
+    "editor.selectionBackground": "#555534"
   }
 }
